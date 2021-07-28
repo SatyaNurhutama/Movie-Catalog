@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SubJetpack2</string>
+    <string name="title_activity_detail_movie">Detail Movie</string>
+
+    <string name="tv">TvShow</string>
+    <string name="movie">Movie</string>
+    <string name="favorite">Favorite</string>
+    <string name="title">Title</string>
+    <string name="sinopsis">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="sinop">Sinopsis : </string>
+    <string name="year">Tahun</string>
+    <string name="genre">Genre : </string>
+    <string name="genre_film">Genre Film</string>
+    <string name="durasi">Durasi : </string>
+    <string name="durasi2">1 jam</string>
+    <string name="episode">Jumlah episode : </string>
+    <string name="rating">Rating</string>
+    <string name="title_activity_detail_tv">DetailTvActivity</string>
+    <string name="share">Share</string>
+    <string name="share2">Bagikan</string>
+    <string name="share_movie">Bagikan aplikasi ini sekarang</string>
+    <string name="share_movie2">Segera lihat movie %s di MovieApp</string>
+    <string name="share_tv">Segera lihat tv show %s di MovieApp</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="remove_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="remove_ok">Ya</string>
+
+</resources>

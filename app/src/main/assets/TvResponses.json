@@ -1,0 +1,114 @@
+{
+  "tvShows": [
+    {
+      "tvId" :"b01",
+      "title" :"Chappelle's Show",
+      "synopsis" :"Chappelle's Show adalah serial televisi komedi sketsa Amerika yang dibuat oleh komedian Dave Chappelle dan Neal Brennan, dengan Chappelle menjadi pembawa acara dan membintangi sebagian besar sketsa. Chappelle, Brennan, dan Michele Armor adalah produser eksekutif acara tersebut.",
+      "genre" :"Komedi Sketsa, Film Komedi, Satire, Acara Ragam",
+      "year" :"2003",
+      "rating" :"9/10",
+      "episode" :"28",
+      "like" :"93% orang menyukai acara TV ini",
+      "image" :"https://m.media-amazon.com/images/M/MV5BOWNjYTg5NGMtOWRjNy00ZGNlLTg2MmYtZjQ5NTM0MTQxOGM2XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+    },
+    {
+      "tvId" :"b02",
+      "title" :"The Sinner",
+      "synopsis" :"The Sinner merupakan seri televisi antalogi bergenre drama misteri kriminal asal Amerika Serikat. Delapan episode dari film ini berdasarkan novel dengan judul yang sama karya penulis kriminal Jerman Petra Hammesfahr dan pada awalnya dianggap sebagai \"seri tertutup\", pada Januari 2017 mulai diproduksi dan tayang perdana di USA Network pada 2 Agustus 2017. ",
+      "genre" :"Cerita Seru, Misteri, Drama, Dokumenter, Kejahatan",
+      "year" :"2017",
+      "rating" :"9/10",
+      "episode" :"24",
+      "like" :"91% orang menyukai acara TV ini",
+      "image" :"https://images-na.ssl-images-amazon.com/images/I/81UMMWg6XFL.jpg"
+    },
+    {
+      "tvId" :"b03",
+      "title" :"Marvel's Jessica Jones",
+      "synopsis" :"Marvel's Jessica Jones, atau Jessica Jones adalah serial televisi internet Amerika Serikat yang dibuat untuk Netflix oleh Melissa Rosenberg, berdasarkan karakter Marvel Comics dengan nama yang sama.",
+      "genre" :"Fiksi pahlawan super, Drama, Cerita seru psikologis, Fiksi kriminal",
+      "year" :"2015",
+      "rating" :"8/10",
+      "episode" :"39",
+      "like" :"87% orang menyukai acara TV ini",
+      "image" :"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHXCh-I1OGyrvg1iBeKnRXS4Vvlg4b24I0KgN3rq7POREqF3k7"
+    },
+    {
+      "tvId" :"b04",
+      "title" :"The Get Down",
+      "synopsis" :"The Get Down adalah serial televisi drama musikal Amerika yang dibuat oleh Baz Luhrmann dan Stephen Adly Guirgis. Ini debut di Netflix pada 12 Agustus 2016, dan dibatalkan setelah musim pertama.",
+      "genre" :"Drama, Drama periode sejarah, Film musikal",
+      "year" :"2016",
+      "rating" :"9/10",
+      "episode" :"11",
+      "like" :"95% orang menyukai acara TV ini",
+      "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq5XC9Fvp5Iw6XeAPf0oQNf2_qCYXdEckO_xEJGR_hLjEnEtKw"
+    },
+    {
+      "tvId" :"b05",
+      "title" :"Big Mouth",
+      "synopsis" :"Big Mouth adalah komedi situasi animasi dewasa Amerika yang dibuat oleh penulis Family Guy Andrew Goldberg dan penulis skenario-sutradara Nick Kroll, Mark Levin, dan Jennifer Flackett",
+      "genre" :"Animasi dewasa, Film Komedi, Komedi Hitam",
+      "year" :"2017",
+      "rating" :"9/10",
+      "episode" :"41",
+      "like" :"91% orang menyukai acara TV ini",
+      "image" :"https://resizing.flixster.com/Ut1VzHFB4Icq_9OMRw15k29LjZE=/fit-in/1152x864/v1.dDs2MjI3MDk7ajsxODcwOTsxMjAwOzI5NjY7NDQ0OQ"
+    },
+    {
+      "tvId" :"b06",
+      "title" :"The Good Place",
+      "synopsis" :"The Good Place adalah serial televisi komedi fantasi Amerika Serikat yang diciptakan oleh Michael Schur. Serial tayang perdana pada 19 September 2016, di NBC.",
+      "genre" :"Komedi televisi, Fiksi filosofis, Televisi fantasi, Komedi situasi",
+      "year" :"2016",
+      "rating" :"8/10",
+      "episode" :"28",
+      "like" :"93% menyukai acara TV ini",
+      "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCxQBsAZh-Lyl5HY7VP9oL9A-W4z_Fx3u6zoY54NZi7IAO9nai"
+    },
+    {
+      "tvId" :"b07",
+      "title" :"Black Mirror",
+      "synopsis" :"Black Mirror adalah seri antologi televisi Britania Raya besutan Charlie Brooker yang menceritakan kisah fiksi spekulatif dengan tema gelap dan satir mengenai masyarakat modern, terutama dampak buruk teknologi canggih. Seri ini diproduksi oleh Zeppotron untuk Endemol.",
+      "genre" :"Distopia, Fiksi Ilmiah, Satire, Drama, Komedi Hitam",
+      "year" :"2011",
+      "rating" :"9/10",
+      "episode" :"22",
+      "like" :"91% menyukai acara TV ini",
+      "image" :"https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "tvId" :"b08",
+      "title" :"Orange is the New Black",
+      "synopsis" :"Orange Is the New Black adalah sebuah seri televisi web komedi-drama Amerika Serikat yang dibuat oleh Jenji Kohan untuk Netflix. Seri tersebut berdasarkan pada memoir Piper Kerman, Orange Is the New Black: My Year in a Women's Prison",
+      "genre" :"Perbuatan pidana, Komedi, Drama, Komedi Televisi",
+      "year" :"2013",
+      "rating" :"8/10",
+      "episode" :"91",
+      "like" :"95% menyukai acara TV ini",
+      "image" :"https://cdn.flickeringmyth.com/wp-content/uploads/2018/07/OITNB-s6-poster-600x889.jpg"
+    },
+    {
+      "tvId" :"b09",
+      "title" :"Unbreakable Kimmy Schmidt",
+      "synopsis" :"Kimmy Schmidt yang tidak bisa dipecahkan adalah sitkom televisi streaming Amerika yang dibuat oleh Tina Fey dan Robert Carlock, dibintangi oleh Ellie Kemper dalam peran utama. Ini ditayangkan perdana pada 6 Maret 2015, di Netflix dan berlangsung selama empat musim, berakhir pada 25 Januari 2019.",
+      "genre" :"Film Komedi, Komedi Situasi",
+      "year" :"2015",
+      "rating" :"7/10",
+      "episode" :"52",
+      "like" :"91% menyukai acara TV ini",
+      "image" :"https://m.media-amazon.com/images/M/MV5BMTgyNTQyNjUwN15BMl5BanBnXkFtZTgwNjMwNjUzNzM@._V1_.jpg"
+    },
+    {
+      "tvId" :"b10",
+      "title" :"Marvel’s Daredevil",
+      "synopsis" :"Marvel's Daredevil, atau Daredevil adalah seri Netflix yang dibuat oleh Drew Goddard berdasarkan Karakter Marvel Comics dengan nama yang sama. Seri ini berada dalam Marvel Cinematic Universe, dan menjadi seri pertama yang membangun miniseri The Defenders.",
+      "genre" :"Fiksi Pahlawan Super, Fiksi Kriminal, Fiksi Laga, Crime TV Genre, Fiksi Ilmiah",
+      "year" :"2015",
+      "rating" :"9/10",
+      "episode" :"39",
+      "like" :"92% menyukai acara TV ini",
+      "image" :"https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_.jpg"
+    }
+  ]
+}

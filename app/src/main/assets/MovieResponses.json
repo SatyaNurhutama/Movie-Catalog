@@ -1,0 +1,114 @@
+{
+  "movies": [
+    {
+      "movieId": "a01",
+      "title": "Sonic the Hedgehog",
+      "synopsis": "Mengisahkan petualangan Sonic saat ia belajar tentang kompleksitas kehidupan di bumi bersama manusia sahabat barunya, Tom Wachowski. Sonic dan Tom bersatu untuk menghentikan si jahat Dr. Robotnik yang ingin menangkap Sonic dan menggunakan kekuatan istimewanya untuk menguasai dunia.",
+      "genre": "Film anak-anak , Animasi , Laga, Petualangan, Film Komedi",
+      "year": "2020",
+      "rating": "6/10",
+      "duration": "99 menit",
+      "like": "91% orang menyukai film ini",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_.jpg"
+    },
+    {
+      "movieId": "a02",
+      "title": "Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train",
+      "synopsis": "Tanjiro Kamado, bergabung dengan Inosuke Hashibira, seorang anak laki-laki yang dibesarkan oleh babi hutan yang memakai kepala babi hutan, dan Zenitsu Agatsuma, seorang anak laki-laki ketakutan yang mengeluarkan kekuatan sejatinya ketika dia tidur, di dalam Kereta Infinity dalam misi baru dengan seorang Pilar Api, Kyojuro Rengoku , Untuk mengalahkan iblis yang telah menyiksa orang-orang dan membunuh pembunuh iblis yang menentangnya!",
+      "genre": "Anime, Animasi, Laga, Petualangan, Film Fantasi",
+      "year": "2020",
+      "rating": "9/10",
+      "duration":"2 jam",
+      "like": "98% orang menyukai film ini",
+      "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/1/13/Mugen_Train_Poster_3.png/revision/latest?cb=20201027083821"
+    },
+    {
+      "movieId": "a03",
+      "title": "Mulan",
+      "synopsis": "Ketika kaisar Tiongkok mengeluarkan dekrit bahwa satu pria dari setiap keluarga wajib bergabung dalam tentara kekaisaran untuk mempertahankan negara dari serangan bangsa Hun, Hua Mulan, putri tertua dari seorang pejuang terhormat, memutuskan menggantikan ayahnya yang sakit-sakitan.",
+      "genre": "Laga, Petualangan, Drama, Film Fantasi",
+      "year": "2020",
+      "rating": "7/10",
+      "duration": "2 jam",
+      "like": "63% orang menyukai film ini",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81fFRUvEJDL._AC_SY879_.jpg"
+    },
+    {
+      "movieId": "a04",
+      "title": "Avengers: Endgame",
+      "synopsis" :"Melanjutkan Avengers Infinity War, dimana kejadian setelah Thanos berhasil mendapatkan semua infinity stones dan memusnahkan 50% semua mahluk hidup di alam semesta. Akankah para Avengers berhasil mengalahkan Thanos?",
+      "genre": "Laga, Petualangan, Film Pahlawan Super, Film Fantasi, Fiksi Ilmiah",
+      "year": "2019",
+      "rating": "9/10",
+      "duration": "3 jam 2 menit",
+      "like": "95% orang menyukai film ini",
+      "image" :"https://images-na.ssl-images-amazon.com/images/I/81ai6zx6eXL._AC_SL1304_.jpg"
+    },
+    {
+      "movieId": "a05",
+      "title": "Avengers: Infinity War",
+      "synopsis": "The Avengers dan sekutu mereka harus bersedia mengorbankan segalanya dalam upaya untuk mengalahkan Thanos yang kuat sebelum ia berhasil menghancurkan alam semesta.",
+      "genre": "Laga, Petualangan, Film Pahlawan Super, Film Fantasi, Fiksi Ilmiah",
+      "year": "2018",
+      "rating": "9/10",
+      "duration": "2 jam 40 menit",
+      "like": "94% orang menyukai film ini",
+      "image" :"https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "movieId" :"a06",
+      "title" :"Spider-Man: Far From Home",
+      "synopsis" :"Peter Parker (Tom Holland) tengah mengunjungi Eropa untuk liburan panjang bersama temaan-temanya. Sayangnya , Parker tidak bisa dengan tenang menikmati liburannya, karena Nick Fury datang secara tiba-tiba di kamar hotelnya. Selama di Eropa pun Peter harus menghadapi banyak musuh mulai dari Hydro Man, Sandman dan Molten Man.",
+      "genre" :"Laga, Petualangan, Film Pahlawan Super, Film Fantasi, Fiksi Ilmiah, Film Komedi, Remaja",
+      "year" :"2019",
+      "rating" :"9/10",
+      "duration" :"2 jam 9 menit",
+      "like" :"91% orang menyukai film ini",
+      "image" :"https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2019/05/23/1626860820.jpg"
+    },
+    {
+      "movieId" :"a07",
+      "title" :"Parasite",
+      "synopsis" :"Keluarga Ki-taek beranggotakan empat orang pengangguran dengan masa depan suram menanti mereka. Suatu hari Ki-woo anak laki-laki tertua direkomendasikan oleh sahabatnya yang merupakan seorang mahasiswa dari universitas bergengsi agar Ki-woo menjadi guru les yang dibayar mahal dan membuka secercah harapan penghasilan tetap. Dengan penuh restu serta harapan besar dari keluarga, Ki-woo menuju ke rumah keluarga Park untuk wawancara. Setibanya di rumah Mr. Park pemilik perusahaan IT global, Ki-woo bertemu dengan Yeon-kyo, wanita muda yang cantik di rumah itu. Setelah pertemuan itu, serangkaian kejadian dimulai.",
+      "genre" :"Drama, Film Komedi, Misteri, Komedi Hitam, Cerita Seru",
+      "year" :"2019",
+      "rating" :"9/10",
+      "duration" :"2 jam 12 menit",
+      "like": "90% orang menyukai film ini",
+      "image": "https://assets.mubicdn.net/images/notebook/post_images/29836/images-w1400.jpg?1579571205"
+    },
+    {
+      "movieId" :"a08",
+      "title" :"Joker",
+      "synopsis" :"Arthur Fleck, seorang badut pesta, hidup dalam keadaan sulit bersama ibunya yang sakit-sakitan. Karena orang-orang menganggapnya aneh, ia memutuskan untuk berubah menjadi jahat dan membuat kekacauan.",
+      "genre" :"Drama, Cerita Seru, Kejahatan",
+      "year" :"2019",
+      "rating" :"9/10",
+      "duration" :"2 jam 2 menit",
+      "like" :"92% orang menyukai film ini",
+      "image" :"https://cdn.cgv.id/uploads/movie/pictures/19029600.jpg"
+    },
+    {
+      "movieId" :"a09",
+      "title" :"Your Name",
+      "synopsis" :"Alur. Mitsuha Miyamizu, seorang siswi sekolah menengah atas yang tinggal di desa fiktif bernama Itomori di daerah pegunungan Hida Prefektur Gifu, mulai bosan dengan kehidupannya di pedesaan tempat dia lahir dan berharap dapat terlahir menjadi pemuda tampan yang hidup di Tokyo pada kehidupan selanjutnya.",
+      "genre" :"Anime, Roman, Drama, Animasi, Film Fantasi",
+      "year" :"2016",
+      "rating" :"9/10",
+      "duration" :"1 jam 52 menit",
+      "like" :"97% orang menyukai film ini",
+      "image" :"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdCn7P_niNCbNFHt9vLgDc-YlRIhwvnCPtHzyiHVP_GK-XmDS1"
+    },
+    {
+      "movieId" :"a10",
+      "title" :"Pokemon: Detective Pikachu",
+      "synopsis" :"Kisah ini bermula ketika detektif swasta ulung Harry Goodman menghilang secara tiba-tiba, mendorong putranya yang berumur 21 tahun untuk mencari tahu apa yang terjadi. Yang membantu penyelidikan adalah mantan mitra Pokmon Harry, Detective Pikachu: detektif ulung yang kocak dan menggemaskan yang membingungkan bahkan bagi dirinya sendiri. Mereka menemukan bahwa mereka saling melengkapi secara unik untuk berkomunikasi satu sama lain, Tim dan Pikachu bergabung dalam sebuah petualangan mendebarkan untuk mengungkap misteri yang kusut. Mengejar petunjuk bersama menyusuri jalan- jalan di Ryme City yang terang benderangsebuah kota metropolitan modern yang luas di mana manusia dan Pokmon hidup berdampingan dalam sebuah dunia hiper-realistismereka menghadapi beragam karakter Pokmon dan mengungkap plot mengejutkan yang bisa menghancurkan ko-eksistensi yang damai dan mengancam seluruh alam semesta Pokmon.",
+      "genre" :"Film anak-anak, Petualangan, Laga, Misteri, Animasi, Fiksi Ilmiah, Film Fantasi",
+      "year" :"2019",
+      "rating" :"9/10",
+      "duration" :"1 jam 45 menit",
+      "like" :"92% orang menyukai film ini",
+      "image" :"https://images-na.ssl-images-amazon.com/images/I/51MfhHo5CYL.jpg"
+    }
+  ]
+}
